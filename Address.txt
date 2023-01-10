@@ -2,4 +2,5 @@ Sarwar Street
 JAGADHRI Haryana
 135001
 India
-Continent Asia
+Asia
+
